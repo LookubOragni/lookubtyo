@@ -1,0 +1,26 @@
+name: LookubCore
+version: 0.1.1
+author: TyoIV
+main: fr.lookubcore.main.mainClass
+commands:
+  wither:
+    permission: lookubcore.spawnwither.use
+    description:
+  broadcast:
+    permission: lookubcore.broadcast.use
+    description:
+    aliases: [bc]
+  lobby:
+    permission: lookubcore.lobby.use
+    description:
+    aliases: [hub]
+  lookub:
+    permission: lookubcore.lookub.use
+    description:
+    aliases: [lk]
+  ping:
+    permission: lookubcore.ping.use
+    description:
+  maintenance:
+    permission: lookubcore.maintenance.use
+    description:

@@ -1,0 +1,12 @@
+## Permet de set le prix de spawn du wither quand on fait la commande /wither
+prix wither: 85000.0
+
+## SetLobby
+world: world
+location_x: 0.00
+location_y: 0.00
+location_z: 0.00
+
+timecooldown: 10
+
+Motd: §a§oLe serveur
